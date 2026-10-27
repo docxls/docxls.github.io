@@ -1,3 +1,9 @@
+# DOCXLS · 静态模板
+
+> 只收集几个方便好用的静态生成器模板。
+
+## 📦 模板一览
+
 | № | 模板 | 生成器 | 项目 |
 |:---:|:---:|:---:|:---|
 | 1 | [abridge](https://github.com/jieiku/abridge) | Zola | [📦](https://github.com/jieiku/abridge) [🌐](https://abridge.pages.dev/) [📋](#) |
